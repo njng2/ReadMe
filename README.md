@@ -7,7 +7,8 @@ My name is Nancy Jennifer Ng
 🎓I am currently majoring in Computer Science  
 🔬My first degree was a Bachelor of Science in Biology from the Unveristy at Buffalo  
 
-The projects I am currently working on: 
+The projects I am currently working on:  
+
 []StonkStache- an educational tool for users who are interested in investing in a stock of their choice   
 []Bathroom finder- a maps tool for users to find the nearest public bathroom from their location  
 
