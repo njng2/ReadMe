@@ -2,7 +2,7 @@
 
 Hello friends. 
 
-My name is Nancy Jennifer Ng and I am anspiring software developer/engineer. I am always open to learn about anything in Computer Science! 
+My name is Nancy Jennifer Ng and I am an aspiring software developer/engineer. I am always open to learn about anything in Computer Science! 
 
 💻I am a 2nd-degree student and an incoming senior at Hunter College  
 🎓I am currently majoring in Computer Science  
