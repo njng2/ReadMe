@@ -2,10 +2,12 @@
 
 Hello friends. 
 
-My name is Nancy Jennifer Ng  
+My name is Nancy Jennifer Ng and I am anspiring software developer/engineer. I am always open to learn about anything in Computer Science! 
+
 💻I am a 2nd-degree student and an incoming senior at Hunter College  
 🎓I am currently majoring in Computer Science  
 🔬I graduated university on May 2018. My first degree was a Bachelor of Science in Biology from the Unveristy at Buffalo  
+🌟Fun fact: I am an undergraduate teaching assistant in Programming in C++ and Programming in Python. 
 
 The projects I am currently working on are:  
 
