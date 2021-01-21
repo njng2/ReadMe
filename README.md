@@ -9,7 +9,7 @@ My name is Nancy Jennifer Ng and I am an aspiring software developer/engineer. I
 🔬I graduated university on May 2018. My first degree was a Bachelor of Science in Biology from the Unveristy at Buffalo  
 🌟Fun fact: I am an undergraduate teaching assistant in Programming in C++ and Programming in Python. 
 
-🌟I love to participate in Hackathons with friends, so feel free to each out to me to collaborate. 
+🌟I love to participate in Hackathons with friends, so feel free to reach out to me to collaborate. 
 
 
 The projects I am currently working on are:  
