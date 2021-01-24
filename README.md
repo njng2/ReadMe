@@ -2,7 +2,7 @@
 
 Hello friends. 
 
-My portfolio:https://njng2.github.io/
+My portfolio: https://njng2.github.io/
 
 My name is Nancy Jennifer Ng and I am an aspiring software developer/engineer. I am always open to learn about anything in Computer Science! 
 
