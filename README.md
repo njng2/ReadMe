@@ -17,7 +17,7 @@ My name is Nancy Jennifer Ng and I am an aspiring software developer/engineer. I
 The projects I am currently working on are:  
 
 []StonkStache- an educational tool for users who are interested in investing in a stock of their choice   
-[]Bathroom finder- a maps tool for users to find the nearest public bathroom from their location  
+
 
 https://dsc.community.dev/hunter-college/  
 Please join our future workshops to build your technical skills
