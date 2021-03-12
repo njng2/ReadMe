@@ -16,7 +16,7 @@ My name is Nancy Jennifer Ng and I am an aspiring software developer/engineer.
 The projects I am currently working on are:  
 
 []StonkStache- an stocks educational tool for users who are interested in investing in a stock of their choice   
-[]BB_remindme- an server reminder bot that reminds users when assignments are due and allows them to add tasks to google calendar 
+[]BB_remindme- an server reminder bot that reminds users on educational discord servers when assignments are due and allows them to add tasks to google calendar 
 
 
 https://dsc.community.dev/hunter-college/  
