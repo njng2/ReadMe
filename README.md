@@ -6,7 +6,7 @@ My portfolio: https://njng2.github.io/
 
 My name is Nancy Jennifer Ng and I am an aspiring software developer/engineer. I am always open to learn about anything in Computer Science! 
 
-💻I am a currently pursuing my 2nd degree in Computer Science.  
+💻I am currently pursuing my 2nd degree in Computer Science.  
 🎓I am currently a junior at Hunter College.  
 🔬I graduated university with a Bachelor of Science in Biology from the University at Buffalo on May 20th, 2018.  
 🌟Fun fact: I am an undergraduate teaching assistant for Programming in C++ and Programming in Python at Hunter College.  
