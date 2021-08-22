@@ -4,7 +4,7 @@ Hello friends.
 
 My portfolio: https://njng2.github.io/
 
-My name is Nancy Jennifer Ng and I am an aspiring software developer/engineer. 
+My name is Nancy Jennifer Ng and I am an aspiring software engineer.
 
 💻I am currently pursuing my 2nd degree in Computer Science.  
 🎓I am currently a senior at Hunter College.  
